@@ -1,0 +1,7 @@
+C:\Users\student\Desktop\gitt_homework\git-homework\ConsoleApp1bka\obj\Debug\ConsoleApp1bka.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\gitt_homework\git-homework\ConsoleApp1bka\obj\Debug\ConsoleApp1bka.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\gitt_homework\git-homework\ConsoleApp1bka\bin\Debug\ConsoleApp1bka.exe.config
+C:\Users\student\Desktop\gitt_homework\git-homework\ConsoleApp1bka\bin\Debug\ConsoleApp1bka.exe
+C:\Users\student\Desktop\gitt_homework\git-homework\ConsoleApp1bka\bin\Debug\ConsoleApp1bka.pdb
+C:\Users\student\Desktop\gitt_homework\git-homework\ConsoleApp1bka\obj\Debug\ConsoleApp1bka.exe
+C:\Users\student\Desktop\gitt_homework\git-homework\ConsoleApp1bka\obj\Debug\ConsoleApp1bka.pdb
